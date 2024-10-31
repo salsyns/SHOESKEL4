@@ -1,0 +1,259 @@
+[
+    {
+        "id": 1,
+        "name": "New Balance 327",
+        "price": "$83.00",
+        "images": [
+            "images/NB/NB327.webp"
+        ],
+        "category": "New Balance",
+        "description": "This retro-style shoe features a large `N`` logo and a textured sole, making it suitable for casual wear or light hiking. Its lightweight design is crafted from a durable combination of suede and nylon."
+    },
+    {
+        "id": 2,
+        "name": "Fresh Foam Roav Golf Shoes",
+        "price": "$78.00",
+        "images": [
+            "images/NB/NBFFRGS.webp"
+        ],
+        "category": "New Balance",
+        "isTrending":true,
+        "description": "This golf shoe is designed without spikes and features Fresh Foam technology that provides plush cushioning, making it comfortable for both the golf course and everyday wear. The durable outsole ensures high traction on various surfaces, while the lightweight upper enhances airflow, keeping your feet cool and comfortable during activities on the course."
+    },
+    {
+        "id": 3,
+        "name": "New Balance 574 Core",
+        "price": "$83.00",
+        "images": [
+            "images/NB/NB574C.webp"
+        ],
+        "category": "New Balance",
+        "description": "This iconic model features a sturdy sole designed for street or track use. It is equipped with lightweight EVA cushioning and comes in various colors, making it versatile for any style."
+    },
+    {
+        "id": 4,
+        "name": "New Balance 237",
+        "price": "$73.00",
+        "images": [
+            "images/NB/NB237.webp"
+        ],
+        "category": "New Balance",
+        "description": "Inspired by 1970s footwear, the 237 model features a vintage touch with bold colors and a longer midsole, making it perfect for retro style enthusiasts."
+    },
+    {
+        "id": 5,
+        "name": "New Balance 990v5",
+        "price": "$180.00",
+        "images": [
+            "images/NB/NB990V5.webp"
+        ],
+        "category": "New Balance",
+        "description": "This shoe features ENCAP technology in the midsole for optimal comfort and includes reflective details, making it suitable for nighttime wear or light exercise."
+    },
+    {
+        "id": 6,
+        "name": "New Balance 530",
+        "price": "$98.00",
+        "images": [
+            "images/NB/NB530.webp"
+        ],
+        "category": "New Balance",
+        "description": "The stylish shoes feature ABZORB cushioning technology and are made from mesh and rubber materials, providing a fashionable appearance along with extra comfort."
+    },
+    {
+        "id": 7,
+        "name": "New Balance 550",
+        "price": "$106.00",
+        "images": [
+            "images/NB/NB550.webp"
+        ],
+        "category": "New Balance",
+        "isTrending": true,
+        "description": "Originally designed for basketball, the model 550 features a sleek suede upper and a durable outsole, offering a classic athletic look that has become popular among New Balance enthusiasts."
+    },
+    {
+        "id": 8,
+        "name": "Reebok Classic Leather",
+        "price": "$82.00 - $93.00",
+        "images": [
+            "images/REEBOK/REEBOKCL.webp"
+        ],
+        "category": "Reebok",
+        "isTrending": true,
+        "description": "The Reebok Classic Leather is an iconic model known for its minimalist design. Crafted from high-quality genuine leather, this shoe offers excellent comfort and durability. With its rubber sole providing traction, it is suitable for everyday wear as well as casual activities. Its timeless design makes it easy to pair with a variety of clothing styles."
+    },
+    {
+        "id": 9,
+        "name": "Reebok Club C 85",
+        "price": "$87.00",
+        "images": [
+            "images/REEBOK/REEBOKCC.webp"
+        ],
+        "category": "Reebok",
+        "isTrending": true,
+        "description": "The Reebok Club C 85 is a classic tennis shoe that has become a favorite for casual style. Featuring a clean and simple design, this shoe is made from soft leather, providing comfort during wear. Known for its durability, the Club C 85 is equipped with a rubber sole that offers good traction for everyday activities."
+    },
+    {
+        "id": 10,
+        "name": "PEDAUH MID CUT MEN",
+        "price": "$49.21",
+        "images": [
+            "images/EIGER/PMCM.jpg"
+        ],
+        "category": "Eiger",
+        "description": "This mid-cut shoe combines style and functionality, making it perfect for both urban and outdoor adventures. With a durable upper material, it provides ample support and comfort for long wear. The outsole is designed for optimal traction, ensuring stability on various terrains, from city streets to rugged paths."
+    },
+    {
+        "id": 11,
+        "name": "Ardonix",
+        "price": "$96.00",
+        "images": [
+            "images/EIGER/ARDONIX.webp"
+        ],
+        "category": "Eiger",
+        "description": "The Ardonix is built for the adventurous spirit. This shoe features a rugged design and high-traction outsole, making it ideal for hiking or climbing. It offers excellent ankle support and cushioning, allowing you to tackle steep inclines and uneven surfaces with confidence. Stylish yet functional, it fits seamlessly into any outdoor wardrobe."
+    },
+    {
+        "id": 12,
+        "name": "Mamba Mid",
+        "price": "$107.00",
+        "images": [
+            "images/EIGER/MM.webp"
+        ],
+        "category": "Eiger",
+        "description": "The Mamba Mid is crafted to provide exceptional ankle support and stability, making it a great choice for hiking enthusiasts. Its lightweight construction and breathable materials ensure comfort during long treks. The shoe's rugged design is complemented by a stylish aesthetic, suitable for both outdoor activities and casual outings."
+    },
+    {
+        "id": 13,
+        "name": "VIPERA",
+        "price": "$107.00",
+        "images": [
+            "images/EIGER/VIPERA.webp"
+        ],
+        "category": "Eiger",
+        "description": "Vipera is designed for adventurers who prioritize comfort and performance. Featuring a lightweight construction, this shoe allows for freedom of movement while providing excellent grip on slippery or uneven surfaces. The padded collar and cushioned insole ensure all-day comfort, making it ideal for hiking, trekking, or casual wear."
+    },
+    {
+        "id": 14,
+        "name": "Gaea Mid",
+        "price": "$72.00",
+        "images": [
+            "images/EIGER/GM.webp"
+        ],
+        "category": "Eiger",
+        "isTrending":true,
+        "description": "Gaea Mid is designed for daily They also include a rubber sheet shifter pad that protects the shoes during gear shifts. Reflective details on the back counter enhance visibility in low-light conditions, making them suitable for both urban and outdoor adventures."
+    },
+    {
+        "id": 15,
+        "name": "BISKRA",
+        "price": "$53.00",
+        "images": [
+            "images/EIGER/BISKRA.webp"
+        ],
+        "category": "Eiger",
+        "description": "The Biskra is engineered for versatility, suitable for both casual outings and light trekking. It features a durable upper that withstands wear and tear, while the grippy outsole ensures stability on different surfaces. With a stylish design, this shoe is a great addition to any wardrobe, combining practicality with fashion."
+    },
+    {
+        "id": 16,
+        "name": "HARRIER",
+        "price": "$90.00",
+        "images": [
+            "images/EIGER/HARRIER.webp"
+        ],
+        "category": "Eiger",
+        "description": "The Harrier is a robust shoe designed for those who enjoy both hiking and everyday activities. It features a sturdy construction, providing excellent support and cushioning for your feet. The traction outsole offers grip on various terrains, ensuring you stay secure whether you're on a trail or walking in the city. Its modern design makes it a fashionable choice as well."
+    },
+    {
+        "id": 17,
+        "name": "Gazelle Hi Cream",
+        "price": "$28.00",
+        "images": [
+            "images/COMPASS/HC.webp"
+        ],
+        "category": "Compass",
+        "description": "The Gazelle Hi Cream provides a clean, neutral look with its premium canvas high-top structure. This model offers longevity and comfort, making it suitable for various occasions, with a classic rubber sole that adds stability and style."
+    },
+    {
+        "id": 18,
+        "name": "Gazelle Low Black White",
+        "price": "$26.00",
+        "images": [
+            "images/COMPASS/LB.webp"
+        ],
+        "category": "Compass",
+        "description": "The Gazelle Low Black White offers a low-cut design with a sleek, black-and-white contrast. Known for its timeless appeal, this model is built with a durable rubber sole for enhanced performance and style."
+    },
+    {
+        "id": 19,
+        "name": "Nike Air Force 1 '07",
+        "price": "$110.00",
+        "images": [
+            "images/NIKE/AF107.png"
+        ],
+        "category": "Nike",
+        "description": "This classic sneaker blends a retro aesthetic with modern comfort. Featuring an iconic design, durable leather upper, and signature Air cushioning, the Air Force 1 '07 remains a favorite for both casual and stylish wear."
+    },
+    {
+        "id": 20,
+        "name": "Nike Pegasus 41 GORE-TEX",
+        "price": "$170.00",
+        "images": [
+            "images/NIKE/PEGASUS.png"
+        ],
+        "category": "Nike",
+        "isTrending":true,
+        "description": "Designed for outdoor enthusiasts, this waterproof running shoe provides stability and grip on rough terrain. The GORE-TEX technology ensures a dry run in wet conditions, while responsive cushioning offers comfort over long distances."
+    },
+    {
+        "id": 21,
+        "name": "Nike Dunk Low Retro",
+        "price": "$180.00",
+        "images": [
+            "images/NIKE/DLR.png"
+        ],
+        "category": "Nike",
+        "description": "Originally a basketball shoe, the Dunk Low Retro has become a lifestyle icon with its clean lines, low profile, and durable leather upper. This version features updated colorways to add a fresh twist to a timeless silhouette."
+    },
+    {
+        "id": 22,
+        "name": "Nike Vaporfly 3",
+        "price": "$260.00",
+        "images": [
+            "images/NIKE/VAPORFLY.png"
+        ],
+        "category": "Nike",
+        "description": "A top-tier racing shoe, the Vaporfly 3 provides optimal speed with lightweight design and responsive foam. Its carbon-fiber plate ensures propulsion, making it ideal for competitive runners aiming for new personal records​."
+    },
+    {
+        "id": 23,
+        "name": "Galaxy V Lowcut (LC) Black White",
+        "price": "$14.00",
+        "images": [
+           "images/JHONSON/LBW.jpg"
+        ],
+        "category": "Jhonson",
+        "description": "A classic black-and-white low-top sneaker, the Galaxy V LC brings a timeless look for both casual and semi-formal settings. Its clean design makes it suitable for a variety of styles and occasions."
+    },
+    {
+        "id": 24,
+        "name": "Sky Highcut (HC) All Black",
+        "price": "$19.00",
+        "images": [
+            "images/JHONSON/SHC.jpg"
+        ],
+        "category": "Jhonson",
+        "description": "This sleek all-black high-top sneaker provides a trendy monochrome look, suited for urban and streetwear styles. Its understated design complements both casual and edgy outfits."
+    },
+    {
+        "id": 25,
+        "name": "Woosh Lowcut (LC) Black",
+        "price": "$22.00",
+        "images": [
+            "images/JHONSON/WBW.jpg"
+        ],
+        "category": "Jhonson",
+        "description": "A comfortable low-cut model in black, ideal for a casual yet stylish look. The Woosh LC Black can be paired effortlessly with various outfits, making it a flexible wardrobe staple."
+    }
+    
+]
